@@ -20,19 +20,10 @@ blink("outputElement","text");
     <title>Document</title>
 </head> 
 <body>
-    
-        
-        
-        <p id="output"></p>
-
-    <script>
-        let x = false;
-       const btn = document.querySelector('#submit');
-      
+    <p id="output"></p>
+     <script>
         blink("output","Marko");
-    </script>
-
-    
+    </script> 
 </body>
 </html>
 ```
