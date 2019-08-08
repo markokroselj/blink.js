@@ -1,4 +1,5 @@
  function blink(outputelemnt, textToBlink){
+     let x = true;
        setInterval( ()=>{
            if(x){
             document.getElementById(outputelemnt).textContent = textToBlink;
