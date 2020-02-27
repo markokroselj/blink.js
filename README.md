@@ -2,7 +2,7 @@
 
 Blink.js is a simple library for creating blinking text. Blinking interval is 100ms.
 
-## Syntay
+## Syntax
 
 ```javascript
 blink("outputElement","text");
